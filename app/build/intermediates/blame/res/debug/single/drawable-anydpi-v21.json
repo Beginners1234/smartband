@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

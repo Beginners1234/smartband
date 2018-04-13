@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/nikhil/.android/build-cache/6cfd5ef884360271743955eaaa81aa887e327132/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/nikhil/.android/build-cache/6cfd5ef884360271743955eaaa81aa887e327132/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/nikhil/.android/build-cache/6cfd5ef884360271743955eaaa81aa887e327132/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/ayush/.android/build-cache/f1553d1cc217f88c143ee1f1275f4f6d81c9931e/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/ayush/.android/build-cache/f1553d1cc217f88c143ee1f1275f4f6d81c9931e/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/ayush/.android/build-cache/f1553d1cc217f88c143ee1f1275f4f6d81c9931e/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

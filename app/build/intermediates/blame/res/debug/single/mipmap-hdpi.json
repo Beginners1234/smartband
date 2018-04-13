@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/raw/classroom.wav",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/raw/classroom.wav"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/raw/horn1.wav",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/raw/horn1.wav"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/raw/horn1.wav",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/raw/horn1.wav"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/raw/classroom.wav",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/raw/classroom.wav"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/raw/classroom.wav",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/raw/classroom.wav"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/raw/horn1.wav",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/raw/horn1.wav"
+    }
+]

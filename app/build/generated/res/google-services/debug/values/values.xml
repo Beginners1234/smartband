@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">816115754311-ra4jbni141s9mcn1p1ufpeh7ddtd1ggs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-smartband.firebaseio.com</string>
+    <string name="ga_trackingId" translatable="false">UA-100061120-1</string>
+    <string name="gcm_defaultSenderId" translatable="false">816115754311</string>
+    <string name="google_api_key" translatable="false">AIzaSyCylF1hpzJx28q6jm2X75nSrSAD-B9MiG4</string>
+    <string name="google_app_id" translatable="false">1:816115754311:android:8808daed29701ae7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCylF1hpzJx28q6jm2X75nSrSAD-B9MiG4</string>
+    <string name="google_storage_bucket" translatable="false">firebase-smartband.appspot.com</string>
+    <string name="project_id" translatable="false">firebase-smartband</string>
+</resources>

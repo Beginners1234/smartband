@@ -1,0 +1,4 @@
+#Fri Apr 13 08:21:52 IST 2018
+base.0=/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

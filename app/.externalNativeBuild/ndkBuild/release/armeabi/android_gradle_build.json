@@ -1,0 +1,44 @@
+{
+  "buildFiles": [
+    "/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/Android.mk"
+  ],
+  "cleanCommands": [
+    "/home/himanshu/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/Android.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003d/home/himanshu/Documents/SmartBand-master/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/himanshu/Documents/SmartBand-master/app/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "samplerate-release-armeabi": {
+      "buildCommand": "/home/himanshu/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/Android.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003d/home/himanshu/Documents/SmartBand-master/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/himanshu/Documents/SmartBand-master/app/build/intermediates/ndkBuild/release/lib /home/himanshu/Documents/SmartBand-master/app/build/intermediates/ndkBuild/release/obj/local/armeabi/libsamplerate.a",
+      "toolchain": "toolchain-armeabi",
+      "abi": "armeabi",
+      "artifactName": "samplerate",
+      "files": [
+        {
+          "src": "/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/samplerate.c",
+          "flags": "\"-gcc-toolchain\" \"/home/himanshu/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv5te-none-linux-androideabi15\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/include\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni\" \"-DANDROID\" \"-DHAVE_CONFIG_H\" \"-Werror\" \"-g\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/libsamplerate\" \"-D__ANDROID_API__\u003d15\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot\" \"-isystem\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi\""
+        },
+        {
+          "src": "/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/src_linear.c",
+          "flags": "\"-gcc-toolchain\" \"/home/himanshu/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv5te-none-linux-androideabi15\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/include\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni\" \"-DANDROID\" \"-DHAVE_CONFIG_H\" \"-Werror\" \"-g\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/libsamplerate\" \"-D__ANDROID_API__\u003d15\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot\" \"-isystem\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi\""
+        },
+        {
+          "src": "/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/src_sinc.c",
+          "flags": "\"-gcc-toolchain\" \"/home/himanshu/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv5te-none-linux-androideabi15\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/include\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni\" \"-DANDROID\" \"-DHAVE_CONFIG_H\" \"-Werror\" \"-g\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/libsamplerate\" \"-D__ANDROID_API__\u003d15\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot\" \"-isystem\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi\""
+        },
+        {
+          "src": "/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/src_zoh.c",
+          "flags": "\"-gcc-toolchain\" \"/home/himanshu/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv5te-none-linux-androideabi15\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/include\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni\" \"-DANDROID\" \"-DHAVE_CONFIG_H\" \"-Werror\" \"-g\" \"-I/home/himanshu/Documents/SmartBand-master/libsamplerate-android/android/jni/../../libsamplerate/libsamplerate\" \"-D__ANDROID_API__\u003d15\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot\" \"-isystem\" \"/home/himanshu/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi\""
+        }
+      ],
+      "output": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/ndkBuild/release/obj/local/armeabi/libsamplerate.a"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi": {
+      "cCompilerExecutable": "/home/himanshu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0eaf31d8998c007f97f084fa3de39dcb976a8a12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/libs/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.6_92a21caa576785790eeee868ec83633fd6dc595f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/libs/httpmime-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3.6_8288567f5db22882fec849e3ba7a3e5817ace6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/libs/SmartBandAPI.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a259b1114be99c73991f6e36554859d2b8c4b694">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/SmartBandAPI_d5ed678320ff62968f6f2d3fd37320418bbb98c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/libs/jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/jxl_916bd21c95b092b74e603e0feb2d3fd68734cb6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/libs/httpcore-4.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.3_65fe034e0dfac14a9db4e28387cc09a6847e4ae1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7b728d01eaca37e2e3c460a3cce323652500791">
+        <dex dex="/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0574f536bf9964915448d5d6ab69106955328774/classes.dex" />
+    </item>
+
+</items>

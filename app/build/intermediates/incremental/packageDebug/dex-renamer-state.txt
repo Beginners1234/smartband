@@ -1,0 +1,7 @@
+#Fri Apr 13 08:21:56 IST 2018
+base.0=/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0574f536bf9964915448d5d6ab69106955328774
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0eaf31d8998c007f97f084fa3de39dcb976a8a12/classes.dex
+base.1=/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0eaf31d8998c007f97f084fa3de39dcb976a8a12
+file.0=/home/himanshu/Documents/SmartBand-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0574f536bf9964915448d5d6ab69106955328774/classes.dex

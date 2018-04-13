@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

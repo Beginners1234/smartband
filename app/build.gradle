@@ -1,0 +1,75 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('/home/himanshu/Documents/SmartBand-master/debug.keystore')
+            storePassword 'android'
+        }
+    }
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "in.iitd.assistech.smartband"
+        minSdkVersion 15 //14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    repositories {
+        maven { url 'http://repo1.maven.org/maven2' }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
+    sourceSets { main { renderscript.srcDirs = ['src/main/rs', 'src/main/rs/'] } }
+    externalNativeBuild {
+        ndkBuild {
+            path '../libsamplerate-android/android/jni/Android.mk'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    //TODO: Changed the error to warning level
+    compile files('libs/jxl.jar')
+    //    compile 'com.google.android.gms:play-services-analytics:11.0.1'
+    //    compile 'com.firebaseui:firebase-ui-storage:0.6.0'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.google.android.gms:play-services-auth:11.0.1'
+    compile 'com.google.firebase:firebase-auth:11.0.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.facebook.android:facebook-android-sdk:4.23.0'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.github.bumptech.glide:glide:4.0.0-RC1'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'org.apache.commons:commons-math3:3.6.1'
+    //    compile 'me.aflak.libraries:bluetooth:1.2.4'
+    testCompile 'org.testng:testng:6.9.6'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.0.0-RC1'
+    compile files('libs/SmartBandAPI.jar')
+    compile files('libs/httpclient-4.3.6.jar')
+}
+apply plugin: 'com.google.gms.google-services'

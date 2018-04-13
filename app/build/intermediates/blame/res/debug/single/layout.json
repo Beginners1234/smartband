@@ -1,0 +1,922 @@
+[
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notif_list_row.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/notif_list_row.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/content_upload.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/content_upload.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/collapsible_list_group.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/collapsible_list_group.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/list_item_chat_message.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/list_item_chat_message.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/activity_upload.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/list_item_chat_message.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/list_item_chat_message.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/splash_layout.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notif_list_row.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/notif_list_row.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/splash_layout.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/tab1.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/tab1.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/collapsible_list_group.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/collapsible_list_group.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/tab1.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/tab1.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/list_item_chat_message.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/list_item_chat_message.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/history_list_row.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/history_list_row.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/history_list_row.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/history_list_row.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notif_list_row.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/notif_list_row.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/ayush/.android/build-cache/6ea47646caf56864c92adb4cf516e8e3770bce6b/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/tab2.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/tab2.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/tab2.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/tab2.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/splash_layout.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/tab3.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/tab3.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/tab2.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/tab2.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/history_list_row.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/history_list_row.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/collapsible_list_group.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/layout/collapsible_list_group.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/tab3.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/tab3.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/tab3.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/layout/tab3.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/tab1.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/layout/tab1.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/home/nikhil/.android/build-cache/4d44b4cfcaacaef2b4b8ade7fd7f86daa620b650/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/layout/notification_template_lines_media.xml"
+    }
+]

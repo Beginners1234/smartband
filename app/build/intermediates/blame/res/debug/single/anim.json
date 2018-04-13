@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/ayush/.android/build-cache/ea771dd115898115a4c6ca47b49850994d05b654/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/ayush/.android/build-cache/f5381c650aca81e3a92f5a22e4ed92e783aa2c0e/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/nikhil/.android/build-cache/160a8172ddb84b82ab5786574f1771a3600082db/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/nikhil/.android/build-cache/84676a404320a57e70372b0dd27a0d9ccb6741a6/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/res/anim/abc_fade_in.xml"
+    }
+]

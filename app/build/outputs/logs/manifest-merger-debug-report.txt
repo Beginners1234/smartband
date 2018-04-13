@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:4:5-42
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:6:5-69
+MERGED from [com.android.support:design:25.3.1] /home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/himanshu/.android/build-cache/917ccd9a4223c44088aae8eadfe59ee3a2e7ca22/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/himanshu/.android/build-cache/d143b69fc9fe66c61e519afe929922012136990c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /home/himanshu/.android/build-cache/02311c77c1cb615bb9473f9b984e81c6f5605293/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /home/himanshu/.android/build-cache/21d4b6ad7c9688473774cc7e7ec87939c634c45a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/himanshu/.android/build-cache/9e8a35458c0192ffbb427762ac9b18045e1ffbbf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/himanshu/.android/build-cache/4e8257c23e2d50610e60fd38f70f5883ae0907de/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/himanshu/.android/build-cache/da6ebb59366b041f7746a5a23ff542e10cd436ea/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/himanshu/.android/build-cache/52d16a94d271491be448e72e20798922a9775fd7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/himanshu/.android/build-cache/caf5cff716863e22ad0d3d02510986cf940b3701/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/himanshu/.android/build-cache/96f5b1a6f04718a413bebd5005523d98317e62d3/output/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/himanshu/.android/build-cache/b11955fb9f22ae7af9522d7642d39e8a52d7702f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.0.1] /home/himanshu/.android/build-cache/97699165a97ea9afc2e514f3367bd5bcdb6f8645/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/himanshu/.android/build-cache/fb44b3ea1a955bbd56aba239598a106557bab713/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/himanshu/.android/build-cache/f3527f677319804b89b334ecff9bc14a2a1c54a5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/himanshu/.android/build-cache/af87e3e971d837785857d5926b07aae98cd34417/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/himanshu/.android/build-cache/604da26119a783b46d959e34592d0798ea4b68d2/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/himanshu/.android/build-cache/40445fe50d439b12451418143cefca618a2ea3cc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/himanshu/.android/build-cache/520819e01ba9d7af78071a0609c35344e3d58eb2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/himanshu/.android/build-cache/d14cfc406b700c86c2dd7e3e66b5a842003cb2d8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/himanshu/.android/build-cache/377a082031d083461d5b748aeca782c599d9e22e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:6:15-66
+	android:targetSdkVersion
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:20:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:21:22-69
+permission#android.permission.FLASHLIGHT
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:23:5-26:44
+	android:protectionLevel
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:26:9-41
+	android:permissionGroup
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:25:9-77
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:24:9-53
+application
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:30:5-86:19
+MERGED from [com.android.support:design:25.3.1] /home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/himanshu/.android/build-cache/d143b69fc9fe66c61e519afe929922012136990c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /home/himanshu/.android/build-cache/21d4b6ad7c9688473774cc7e7ec87939c634c45a/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/himanshu/.android/build-cache/9e8a35458c0192ffbb427762ac9b18045e1ffbbf/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/himanshu/.android/build-cache/4e8257c23e2d50610e60fd38f70f5883ae0907de/output/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/himanshu/.android/build-cache/da6ebb59366b041f7746a5a23ff542e10cd436ea/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/himanshu/.android/build-cache/52d16a94d271491be448e72e20798922a9775fd7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/himanshu/.android/build-cache/caf5cff716863e22ad0d3d02510986cf940b3701/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/himanshu/.android/build-cache/96f5b1a6f04718a413bebd5005523d98317e62d3/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/himanshu/.android/build-cache/b11955fb9f22ae7af9522d7642d39e8a52d7702f/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.1] /home/himanshu/.android/build-cache/97699165a97ea9afc2e514f3367bd5bcdb6f8645/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/himanshu/.android/build-cache/fb44b3ea1a955bbd56aba239598a106557bab713/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/himanshu/.android/build-cache/f3527f677319804b89b334ecff9bc14a2a1c54a5/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/himanshu/.android/build-cache/af87e3e971d837785857d5926b07aae98cd34417/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/himanshu/.android/build-cache/604da26119a783b46d959e34592d0798ea4b68d2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/himanshu/.android/build-cache/40445fe50d439b12451418143cefca618a2ea3cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/himanshu/.android/build-cache/520819e01ba9d7af78071a0609c35344e3d58eb2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/himanshu/.android/build-cache/d14cfc406b700c86c2dd7e3e66b5a842003cb2d8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/himanshu/.android/build-cache/377a082031d083461d5b748aeca782c599d9e22e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:34:9-41
+	android:supportsRtl
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:37:9-35
+	android:excludeFromRecents
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:32:9-43
+	android:noHistory
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:36:9-34
+	android:allowBackup
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:33:9-43
+	android:largeHeap
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:35:9-33
+	android:theme
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:38:9-49
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:39:9-41:55
+	android:value
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:40:13-58
+activity#in.iitd.assistech.smartband.MainActivity
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:46:13-53
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:44:13-41
+activity#in.iitd.assistech.smartband.SignInActivity
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:53:9-66:20
+	android:label
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:55:13-45
+	android:theme
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:54:13-43
+activity#in.iitd.assistech.smartband.Splash
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:67:9-77:20
+	android:screenOrientation
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:69:13-45
+	android:theme
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:68:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:72:13-76:29
+action#android.intent.action.MAIN
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:75:27-74
+activity#in.iitd.assistech.smartband.UploadActivity
+ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:82:9-85:65
+	android:label
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:84:13-58
+	android:theme
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:85:13-53
+	android:name
+		ADDED from /home/himanshu/Documents/SmartBand-master/app/src/main/AndroidManifest.xml:83:13-43
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/himanshu/.android/build-cache/917ccd9a4223c44088aae8eadfe59ee3a2e7ca22/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/himanshu/.android/build-cache/d143b69fc9fe66c61e519afe929922012136990c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/himanshu/.android/build-cache/72f6af88014e51823da4d57a2cc6d70ae58778fa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/himanshu/.android/build-cache/da6ebb59366b041f7746a5a23ff542e10cd436ea/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/himanshu/.android/build-cache/52d16a94d271491be448e72e20798922a9775fd7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/himanshu/.android/build-cache/caf5cff716863e22ad0d3d02510986cf940b3701/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/himanshu/.android/build-cache/96f5b1a6f04718a413bebd5005523d98317e62d3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/himanshu/.android/build-cache/af87e3e971d837785857d5926b07aae98cd34417/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/himanshu/.android/build-cache/604da26119a783b46d959e34592d0798ea4b68d2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/himanshu/.android/build-cache/40445fe50d439b12451418143cefca618a2ea3cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/himanshu/.android/build-cache/520819e01ba9d7af78071a0609c35344e3d58eb2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/himanshu/.android/build-cache/d14cfc406b700c86c2dd7e3e66b5a842003cb2d8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/himanshu/.android/build-cache/377a082031d083461d5b748aeca782c599d9e22e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/himanshu/.android/build-cache/53ffe7f7cad253145abf459fdab57763d833923c/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/himanshu/.android/build-cache/5b9c12cd411418e32f9d27cff72487067dccc51e/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/himanshu/.android/build-cache/9e8a35458c0192ffbb427762ac9b18045e1ffbbf/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/himanshu/.android/build-cache/9e8a35458c0192ffbb427762ac9b18045e1ffbbf/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/himanshu/.android/build-cache/9e8a35458c0192ffbb427762ac9b18045e1ffbbf/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/himanshu/.android/build-cache/9e8a35458c0192ffbb427762ac9b18045e1ffbbf/output/AndroidManifest.xml:19:19-85
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.23.0] /home/himanshu/.android/build-cache/e97b8490874140c93b5fe0c92cbd9deebc695f0b/output/AndroidManifest.xml:45:13-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /home/himanshu/.android/build-cache/a825bcd70a814ba7bc064646923134fa1fd125e1/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /home/himanshu/.android/build-cache/b8d171aa1549bc7fbd8ec8a76c26312d5989ebab/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /home/himanshu/.android/build-cache/75d31fe90b0717228f56796dcfb7662aed047ff3/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /home/himanshu/.android/build-cache/6cb170962271b07f43aa92bbb4b7c91a64dacd4b/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/himanshu/.android/build-cache/f3527f677319804b89b334ecff9bc14a2a1c54a5/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/himanshu/.android/build-cache/f3527f677319804b89b334ecff9bc14a2a1c54a5/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/himanshu/.android/build-cache/f3527f677319804b89b334ecff9bc14a2a1c54a5/output/AndroidManifest.xml:20:20-65

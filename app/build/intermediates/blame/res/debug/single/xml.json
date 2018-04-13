@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/himanshu/Documents/SmartBand-master/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/home/himanshu/Documents/SmartBand-master/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/home/ayush/Documents/AndroidStudioProjects/SmartBand/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    },
+    {
+        "merged": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/home/nikhil/AndroidStudioProjects/SmartBand/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    }
+]

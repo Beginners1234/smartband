@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "816115754311",
+    "firebase_url": "https://fir-smartband.firebaseio.com",
+    "project_id": "firebase-smartband",
+    "storage_bucket": "firebase-smartband.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816115754311:android:8808daed29701ae7",
+        "android_client_info": {
+          "package_name": "in.iitd.assistech.smartband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816115754311-bv16djcdklnmclo0fqk4osblkcl7phkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.iitd.assistech.smartband",
+            "certificate_hash": "6afeb2b7d173e829f5f0805cbca12a68e46e2fc5"
+          }
+        },
+        {
+          "client_id": "816115754311-ra4jbni141s9mcn1p1ufpeh7ddtd1ggs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "816115754311-ac55qijtnuqmat4h8u72v8jt6boh1oof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylF1hpzJx28q6jm2X75nSrSAD-B9MiG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-100061120-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816115754311-ra4jbni141s9mcn1p1ufpeh7ddtd1ggs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
